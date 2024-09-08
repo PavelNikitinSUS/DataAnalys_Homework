@@ -1,8 +1,5 @@
 cmd.exe /C arp -a > $temp\gGjrIFGa.tmp 2>&
-gGjrIFGa.tmp		
-quser.exe		
-netstat -ano 		
-netstat user		
+gGjrIFGa.tmp			
 xcopy.exe /s $user\desktop c:\$recycle.bin\temp\	
 ping.exe 167.179.64.62		
 167.179.64.62		
